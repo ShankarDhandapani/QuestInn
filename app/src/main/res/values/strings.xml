@@ -6,4 +6,5 @@
     <string name="signup">SignUp</string>
     <string name="facebook_app_id">1731126240341316</string>
     <string name="fb_login_protocol_scheme">fb1731126240341316</string>
+    <string name="or_text_1">OR</string>
 </resources>
